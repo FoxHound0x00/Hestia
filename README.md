@@ -56,7 +56,7 @@ Like Hestia, who tended to the sacred hearth fire and ensured that it never went
 
 #### Firefox / Firefox for Android
 
-[Firefox Add-ons](https://addons.mozilla.org/addon/hestia/)
+[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/hestia-search/)
 
 
 [Manual Installation](https://github.com/sud0x00/Hestia/tree/master/dist#install)
